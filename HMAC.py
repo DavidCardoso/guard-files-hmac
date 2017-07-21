@@ -6,9 +6,9 @@
 #	@details 	Gera um MAC de um arquivo ou dado baseado em uma Função Hash.
 #	@since		09/10/2016
 #	@date		14/10/2016
-#	@author		David
+#	@author		David Cardoso
 #	@copyright	2016 - All rights reserveds
-#	@sa 		http://projetos.imd.ufrn.br/davidcardoso-ti/imd0703/blob/master/hmac/HMAC.py
+#	@sa 		https://github.com/davidcardoso-ti/guard-files-hmac/blob/master/HMAC.py
 
 import hashlib 		# hashlib 	- algoritmos seguros de hash (MD5, SHA1, SHA224, SHA256, SHA384, SHA512)
 

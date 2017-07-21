@@ -7,9 +7,9 @@
 #				de um conjunto de arquivos para uma determinada pasta (recursivamente).
 #	@since		09/10/2016
 #	@date		14/10/2016
-#	@author		David
+#	@author		David Cardoso
 #	@copyright	2016 - All rights reserveds
-#	@sa 		http://projetos.imd.ufrn.br/davidcardoso-ti/imd0703/blob/master/hmac/guard.py
+#	@sa 		https://github.com/davidcardoso-ti/guard-files-hmac/blob/master/guard.py
 
 import os, sys			# os, sys 		- recursos de sistema
 import shutil 			# shutil 		- operações avançadas de sistema
